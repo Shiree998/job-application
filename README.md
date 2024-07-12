@@ -29,4 +29,3 @@ To set up the job application website locally, follow these steps:
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Project Link: https://shiree998.github.io/job-application/
