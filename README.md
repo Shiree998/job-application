@@ -24,8 +24,7 @@ To set up the job application website locally, follow these steps:
    
 
 3. Open the index.html file in your web browser to view the website.
-
-
+   
 #### License:
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
